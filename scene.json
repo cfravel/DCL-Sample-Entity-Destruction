@@ -1,0 +1,30 @@
+{
+  "display": {
+    "title": "SAMPLE-entity-destruction",
+    "favicon": "favicon_asset"
+  },
+  "contact": {
+    "name": "Carl Fravel",
+    "email": "cfravel@fravel.net"
+  },
+  "owner": "",
+  "scene": {
+    "parcels": [
+      "0,0"
+    ],
+    "base": "0,0"
+  },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://signalling-01.decentraland.org"
+  },
+  "policy": {
+    "contentRating": "E",
+    "fly": true,
+    "voiceEnabled": true,
+    "blacklist": [],
+    "teleportPosition": ""
+  },
+  "main": "bin/game.js",
+  "tags": []
+}
